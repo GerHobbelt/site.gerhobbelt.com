@@ -1,7 +1,7 @@
 {
-  "name": "bermuda-holding.com",
+  "name": "gerhobbelt.com",
   "version": "1.0.0-1",
-  "description": "website: bermuda-holding.com",
+  "description": "website: gerhobbelt.com",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -16,10 +16,10 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/GerHobbelt/site.bermuda-holding.com.git"
+    "url": "git+ssh://git@github.com/GerHobbelt/site.gerhobbelt.com.git"
   },
   "bugs": {
-    "url": "https://github.com/GerHobbelt/site.bermuda-holding.com/issues"
+    "url": "https://github.com/GerHobbelt/site.gerhobbelt.com/issues"
   },
-  "homepage": "https://github.com/GerHobbelt/site.bermuda-holding.com#readme"
+  "homepage": "https://github.com/GerHobbelt/site.gerhobbelt.com#readme"
 }
